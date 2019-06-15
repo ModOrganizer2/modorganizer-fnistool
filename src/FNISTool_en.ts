@@ -97,7 +97,7 @@
     </message>
     <message>
         <location filename="FNISTool.py" line="136"/>
-        <source>Whether or not to output to a mod was not specifed. The tool will now exit.</source>
+        <source>Whether or not to output to a mod was not specified. The tool will now exit.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -107,7 +107,7 @@
     </message>
     <message>
         <location filename="FNISTool.py" line="143"/>
-        <source>The mod to output to was not specifed. The tool will now exit.</source>
+        <source>The mod to output to was not specified. The tool will now exit.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
